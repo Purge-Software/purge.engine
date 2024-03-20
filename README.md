@@ -1,2 +1,2 @@
 # p-SMITE
-pholder
+Tellmehey's Project SMITE Engine. (engine may have some differences between hero, public and SMITE)
